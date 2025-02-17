@@ -59,8 +59,9 @@ Estudiante de Ingeniería en Sistemas Computacionales con sólida experiencia en
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:ruizcalderonricardoed@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Correo" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Correo" height="30" width="40" />
   </a>
   <br/>
   Correo para contacto: <a href="mailto:ruizcalderonricardoed@gmail.com">ruizcalderonricardoed@gmail.com</a>
 </p>
+
